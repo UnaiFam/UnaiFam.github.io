@@ -24,7 +24,7 @@ Puedes hacerlo a traves de [Linkedin](www.linkedin.com/in/unai-famoso-rodriguez-
  ![Image](https://github.com/user-attachments/assets/e131f9a8-b72c-4e1f-b7f4-f4f9a3016a2d)
 *Metodo de validación random subsets*
 
-Utilizaba los espenctros Infrarrojos en pastillas dopadas de aspartamo para predecir la concentración de este en la pastilla. Aqui estaria de 100 a 900 mg
+Utilizaba los espenctros Infrarrojos en pastillas dopadas de aspartamo para predecir la concentración de este en la pastilla. Aqui estaria de  de 0 hasta los 860 microgramos.
 Este es proyecto antiguo que hize en SOLO Workspace. Realize este proyecto durante la carrera de quimica para analizar aspartamo en Coca-Cola. Desafortunadamente el procedimiento provoco que los datos esten en bloque(debido a la falta de consisitencia de las pastillas).
 Otro problemadel proyecto es que no investigue los limites de detección y cuantificación. 
   
