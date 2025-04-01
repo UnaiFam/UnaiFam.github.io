@@ -20,7 +20,10 @@ Ademeas tengo un ingles de nivel profesional.
 Puedes hacerlo a traves de [Linkedin](www.linkedin.com/in/unai-famoso-rodriguez-873861333), [Github](https://github.com/UnaiFam), mediante el correo unaifamosorodriguez@gmail.com.
 
 ## Algunos de mis proyectos
-* Modelo de PLS  de analisis de aspartamo en pastillas de KBr mediante FTIR
+* Modelo de PLS  para analizar de aspartamo en pastillas de KBr mediante FTIR
  ![Image](https://github.com/user-attachments/assets/e131f9a8-b72c-4e1f-b7f4-f4f9a3016a2d)
-   Este proyecto es antiguo antes de que aprendiese a programar. Realize este proyecto durante la carrera de quimica para analizar  aspartamo en Coca-Cola.
+
+
+
+Este es proyecto antiguo . Realize este proyecto durante la carrera de quimica para analizar  aspartamo en Coca-Cola. Desafortunadamente la metodologia del procedimiento hace que los datos esten en bloque 
   
