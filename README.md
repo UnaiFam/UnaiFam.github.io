@@ -24,7 +24,7 @@ Puedes hacerlo a traves de [Linkedin](www.linkedin.com/in/unai-famoso-rodriguez-
  ![Image](https://github.com/user-attachments/assets/e131f9a8-b72c-4e1f-b7f4-f4f9a3016a2d)
 
  
- <img src="[./img/error.png](https://github.com/user-attachments/assets/e131f9a8-b72c-4e1f-b7f4-f4f9a3016a2d)" width =800>
+ <img src="(https://github.com/user-attachments/assets/e131f9a8-b72c-4e1f-b7f4-f4f9a3016a2d)" width =800>
 
 
 
