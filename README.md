@@ -21,4 +21,4 @@ Puedes hacerlo a traves de [Linkedin](www.linkedin.com/in/unai-famoso-rodriguez-
 
 ## ALgunos de mis proyectos
 * Modelo de PLS  de aspartamo en pastillas de KBr
-  ![PLS](https://github.com/UnaiFam/UnaiFam.github.io/asp PLS.emf)
+  ![PLS](https://github.com/UnaiFam/UnaiFam.github.io/imagen3.jpg)
