@@ -9,6 +9,15 @@ Ademas tengo un ingles de nivel profesional.
 
 ## Stack tecnicos
 * Python
+
+
+
+
+
+
+
+
+
   ![Image](https://github.com/user-attachments/assets/5ff6c982-aa6a-4456-a729-682b336dc2e9)
 
   
